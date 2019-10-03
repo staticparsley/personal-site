@@ -6,7 +6,7 @@ import Scroll from '../components/Scroll';
 
 import pic1 from '../assets/images/pic.jpg';
 import pic4 from '../assets/images/pyramid2.jpg';
-import resume from '../assets/RubenMarin_Resume.pdf';
+import resume from '../assets/RubenMarin_resume.pdf';
 import config from '../../config';
 const IndexPage = () => (
   <Layout>
