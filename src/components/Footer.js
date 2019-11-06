@@ -20,7 +20,7 @@ export default function Footer() {
         <li>
           Design: <a href="http://html5up.net">HTML5 UP</a>
         </li> */}
-        Last Updated October 2019
+        Last Updated November 2019
       </ul>
     </footer>
   );
