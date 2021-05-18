@@ -6,7 +6,7 @@ import Scroll from '../components/Scroll';
 
 import pic1 from '../assets/images/pic.jpg';
 import pic4 from '../assets/images/pyramid2.jpg';
-import resume from '../assets/RubenMarin_resume.pdf';
+import resume from '../assets/RMarin_Resume.pdf';
 import config from '../../config';
 const IndexPage = () => (
   <Layout>
@@ -39,19 +39,13 @@ const IndexPage = () => (
             I'm a software engineer based out of NYC. Orignally from Los Angeles
             I moved out to the East Coast in pursuit of a better life and escape
             the vapid LA lifestyle. I started coding in 2012 after I had an
-            existential crisis about my future as a music major. I ultimately
-            put down the guitar and taught myself calculus in attempt to get
-            into a STEM program. After a brief affair with Physics I landed on
-            Computer Science and never looked back. Since then I've become a
-            huge JavaScript fanboy and encourage everyone to jump in on the
-            amazing JS community.
+            existential crisis about my future as a music major, taking my first course
+            in C++. I ultimately put down the guitar, switched over to
+            Computer Science and never looked back. I am passionate about tech and am constantly learning.
           </p>
           <p>
             When I'm not staring at code I can be found lifting weights, playing
-            music, or hanging out with my dog. I'm also an avid fan of
-            Brazillian Jiu-Jitsu, it is the reason for me to wake up each day.
-            The lessons learned on the mats translate well to the career of a
-            developer as it reminds me to stay humble and check my ego.
+            music, or training Brazillian-Jiu Jitsu.
           </p>
         </header>
 
@@ -109,14 +103,14 @@ const IndexPage = () => (
         <header className="major">
           <h2>Skills</h2>
           <p>
-            While I consider myself a Node specialist I am well-versed with
+            While I consider myself a NodeJS specialist I am well-versed with
             other languages & technologies.
           </p>
         </header>
         <ul className="features">
           <li className="icon fa-star">
             <h3>JavaScript</h3>
-            <ul>Node.js</ul>
+            <ul>NodeJS</ul>
             <ul>React/Vue</ul>
             <ul>Express/Hapi/GraphQL</ul>
           </li>

@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('/Users/staticparsley/Desktop/new-site/personal-site/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/rubenmarin/Desktop/sute/personal-site/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/staticparsley/Desktop/new-site/personal-site/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/Users/rubenmarin/Desktop/sute/personal-site/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Ruben Marin","short_name":"Landing","start_url":"/Ruben-Marin/","background_color":"#663399","theme_color":"#663399","display":"standalone"},
     },{
-      plugin: require('/Users/staticparsley/Desktop/new-site/personal-site/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('/Users/rubenmarin/Desktop/sute/personal-site/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
